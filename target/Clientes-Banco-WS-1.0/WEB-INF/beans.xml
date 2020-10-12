@@ -13,4 +13,8 @@
           implementor="com.banco.clientes.HelloWorldImpl" 
           address="/HelloWorld" />
           
+        <jaxws:endpoint 
+          id="tarjetaDigital" 
+          implementor="com.banco.clientes.TarjetaDigitalServiceImpl" 
+          address="/TarjetaDigital" />
 </beans>

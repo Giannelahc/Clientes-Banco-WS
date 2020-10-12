@@ -1,2 +1,14 @@
+com\banco\clientes\dao\TarjetaDaoImpl.class
+com\banco\clientes\factorymethod\DBFactory.class
+com\banco\clientes\factorymethod\impl\OracleDBAdapter.class
+com\banco\clientes\model\Tarjeta.class
+com\banco\clientes\factorymethod\DBFactory$1.class
 com\banco\clientes\HelloWorld.class
+com\banco\clientes\factorymethod\DBType.class
+com\banco\clientes\factorymethod\impl\MariaDBAdapter.class
+com\banco\clientes\TarjetaDigitalServiceImpl.class
+com\banco\clientes\dao\TarjetaDao.class
 com\banco\clientes\HelloWorldImpl.class
+com\banco\clientes\util\PropertiesUtil.class
+com\banco\clientes\TarjetaDigitalService.class
+com\banco\clientes\factorymethod\IDBAdapter.class
